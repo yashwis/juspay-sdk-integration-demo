@@ -4,7 +4,7 @@
     {
       "id": "wlt_d10hncoc6xldk",
       "object": "wallet_account",
-      "wallet": "PAYTM",
+      "wallet": "PAYPAL",
       "token": null,
       "current_balance": null,
       "linked": false,
